@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <a href="[https://github.com/bankoadihun/Vizsgaremek2026]">
+    <a href="https://github.com/bankoadihun/Vizsgaremek2026">
       <img src="https://img.shields.io/badge/Fejlesztés-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
     </a>
     <img src="https://img.shields.io/badge/Státusz-Fejlesztés%20alatt-blue?style=for-the-badge" alt="Status" />
@@ -26,4 +26,4 @@ Ez a repository a vizsgaremek központi tájékoztató oldalaként szolgál. A p
 A projekt teljes forráskódja, a commit-történet, a kiadások (releases), valamint a részletes technikai leírás az alábbi hivatkozáson érhető el:
 
 > **Hivatalos fejlesztési tárhely:**  
-> **[Kattints ide a vizsgaremek GitHub repójának megtekintéséhez]([https://github.com/bankoadihun/Vizsgaremek2026])**
+> **[Kattints ide a vizsgaremek GitHub repójának megtekintéséhez](https://github.com/bankoadihun/Vizsgaremek2026)**
